@@ -6,3 +6,4 @@ Can do simple calculation, provides cursor support
 
 ![Simple  Calculator](https://github.com/user-attachments/assets/2db6dff8-862f-429a-983c-d5137646504a)
 
+
